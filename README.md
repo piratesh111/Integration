@@ -1,4 +1,4 @@
-#install lucide-react
+# install lucide-react
 
 # Getting Started with Create React App
 
